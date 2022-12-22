@@ -885,8 +885,9 @@ html, body {
   right: -12%;
   bottom: 42%;
   overflow: hidden;
+  border-radius: 0% 100%
 }
-.corgi .face__curve:after {
+/*.corgi .face__curve:after {
   content: "";
   background-color: #3f3456;
   position: absolute;
@@ -895,7 +896,7 @@ html, body {
   border-radius: 0% 100%;
   top: -32%;
   right: -13%;
-}
+}*/
 .corgi .mouth {
   bottom: 0%;
   width: 100%;
